@@ -75,7 +75,7 @@ main{
   }
   .step-box:last-child{
     margin-bottom: 0;
-    margin-right:30px;
+    margin:0 auto;
   }
   .step-img1{
     margin:0 auto;
